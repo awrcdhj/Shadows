@@ -21,17 +21,17 @@
   <link crossorigin="anonymous" media="all" integrity="sha512-Xvl7qd6ZFq6aBrViMpY+7UKRL79QzxxYG1kyELGe/sH4sV3eCks8DDXxa3WolACcKPac42eqrfe6m0jazyAIPQ==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-5ef97ba9de9916ae9a06b56232963eed.css" />
   <link crossorigin="anonymous" media="all" integrity="sha512-24GJDHWJro3USSMV5JFy5QbE8eCNYG61UucNp7vJMTaeJMrBy6FLiLFgX9jXnWlddv2VRu/rTLIkxzuRDF9ZVA==" rel="stylesheet" href="https://github.githubassets.com/assets/colors-v2-db81890c7589ae8dd4492315e49172e5.css" />
     <link crossorigin="anonymous" media="all" integrity="sha512-rcBopHrwspQORpXVLihZMP22sFwuIo3fL1DyFo5aXwWnV5FzV/nlAGnX/36fI9GQVc2VN7MiIT34RMCwq8jemg==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-adc068a47af0b2940e4695d52e285930.css" />
-    
-    
-    
+
+
+
     <link crossorigin="anonymous" media="all" integrity="sha512-ohNio2W8iCFgXVph5xMJF1NU+8NjAZrF5a5mW8//nqN2FVv+Sw0uYpQXNf+hqIUVSRC3y63k/3et87TEzsZuIA==" rel="stylesheet" href="https://github.githubassets.com/assets/github-a21362a365bc8821605d5a61e7130917.css" />
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-DHpNa+QkQaUCk1eji+SQGDsKa8B63teT5nbKT3/TQ38T2hEDfT9B9OddmUKcMnQ8GaECHElNcJkpGhIThksyXA==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0c7a4d6b.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-HP2Mvig4HXg8jfmGDNyHQA926EIhsEnEmglfqF8GzaJ/ble4OXug7GkcnQlvBRARAAxiSjtRZlXi6Y5946iRRA==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-1cfd8cbe.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-FKXP1Zj/06ElnU2g7tU//J/ilS/i7vutZAiWJRr59SBWKrnmHKIKNwPT+it8dEIdaGzT3DozyEbQQeZUEqvcMA==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-14a5cfd5.js"></script>
-  
+
   <script crossorigin="anonymous" defer="defer" integrity="sha512-9s0o9HusjaKciUh3VkWjfLedaVnLoWrUgCB0HERc6sLtYrXOGqzj68/jjphqCawbexLaVDHv08CTTciAvxPFtg==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-f6cd28f4.js"></script>
-  
+
     <script crossorigin="anonymous" defer="defer" integrity="sha512-BUDbrXZbK9QorUrf0KoEbZAJhTnz+BqMm10bqZCK6w5Hwy7YaORQ4F4DXhLkAVTvaJhNhxxeXgmgJLP0TB7TOw==" type="application/javascript" data-module-id="./chunk-advanced.js" data-src="https://github.githubassets.com/assets/chunk-advanced-0540dbad.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-5tWKSr7mhAzSh4Sx5YRFgKftdGxKwHKnOGYw5DlxjHhkQVURYFU3Bk5IMOGMKuAiJTlC3OXYM3xzGcyjzuEFQQ==" type="application/javascript" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-e6d58a4a.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-0MZorw3oXnKy5eeSwQ9xGrKU4hxQeCXxmyxhneIHNhDIqu8vWh8mHss9FlC75Xd/bPWxFDCvdOo57tnTR46nbA==" type="application/javascript" data-module-id="./chunk-codemirror.js" data-src="https://github.githubassets.com/assets/chunk-codemirror-d0c668af.js"></script>
@@ -71,12 +71,12 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-fvcOOYapCxPkDRQWz2WQzrqL6rRhX88yHWF87fb9Xny2Fq4lri0ONaVFL7XDSTiTyu4OTp+8WoyfMVpgGUaaVg==" type="application/javascript" data-module-id="./chunk-unveil.js" data-src="https://github.githubassets.com/assets/chunk-unveil-7ef70e39.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-V1S2L90J/leeVmnOy/FbkG/OQV4USnz5ZyX6DdCbkdljoIDtBFoxUohUQokpegatnFHQmch34+humD9mitEyeg==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-5754b62f.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-cKu/+X7gT+WVH4sXKt0g3G77bfQfcgwurRObM+dt8XylPm9eEWI+/aWKhVab6VsYuvvuI5BTriKXhXfJwaSXdQ==" type="application/javascript" data-module-id="./chunk-webgl-warp.js" data-src="https://github.githubassets.com/assets/chunk-webgl-warp-70abbff9.js"></script>
-  
+
   <script crossorigin="anonymous" defer="defer" integrity="sha512-5vp/q5KhOtPfRKIPmz2PoaqwAuGXO4yUN/f+Qqg6C5hn9qdfBlt0LhaNDx1hsuhkQlru8nMMNbJuGcRoiqfA8g==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-e6fa7fab.js"></script>
 <script crossorigin="anonymous" defer="defer" integrity="sha512-xCcwGq+7fkQPSGSB52tRFtoiTfdC89lTq2PBctpiy3NesXDPOkppzJFBbIU6pjSvS6f/PBj2retGOKqdyjOuxg==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-c427301a.js"></script>
 
   <meta name="viewport" content="width=device-width">
-  
+
   <title>HttpProxy/HttpProxyConnectHandler.java at master · arloor/HttpProxy</title>
     <meta name="description" content="http代理，支持CONNECT和普通GET/POST，支持http2；可防止主动嗅探；可作为小火箭、圈、surge等软件和SwitchyOmega(chrome插件)所说的https代理 - HttpProxy/HttpProxyConnectHandler.java at master · arloor/HttpProxy">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
@@ -88,7 +88,7 @@
 
 
 
-    
+
 
   <link rel="assets" href="https://github.githubassets.com/">
     <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/88377378/ws?session=eyJ2IjoiVjMiLCJ1Ijo4ODM3NzM3OCwicyI6NzQ0NjczOTY4LCJjIjoxMDc1Nzc0OTU3LCJ0IjoxNjMwNTgwNjgyfQ==--86020054ff62909bf7c92a08ce6744bd6485c8d89ac71dc508e4ea468e1cc835" data-refresh-url="/_alive" data-session-id="80f8a4e63fe900910fbb1e13590acbd28894d3df7aef26ce01daab371989204c">
@@ -102,7 +102,7 @@
 
   <meta name="github-keyboard-shortcuts" content="repository,source-code" data-pjax-transient="true" />
 
-  
+
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
 
@@ -115,7 +115,7 @@
 
   <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
-  
+
 
 
 
@@ -126,7 +126,7 @@
 
 
 
-  
+
 
       <meta name="hostname" content="github.com">
     <meta name="user-login" content="awrcdhj">
@@ -142,9 +142,9 @@
   <meta http-equiv="x-pjax-csp-version" content="3bd1d66a0bcbe1085660ff2182e7b557cc239441f75f3ec846eba18193d4c44b">
   <meta http-equiv="x-pjax-css-version" content="d1dbd06045f5cc4dd24218c2c5462c5aff3da3123c0dbf632b6b4157f5c18c92">
   <meta http-equiv="x-pjax-js-version" content="985b73e2b42ded5d1575290a6040f0c018ec4bb30fc593182ad72ed0de8cb89f">
-  
 
-    
+
+
   <meta name="go-import" content="github.com/arloor/HttpProxy git https://github.com/arloor/HttpProxy.git">
 
   <meta name="octolytics-dimension-user_id" content="21768987" /><meta name="octolytics-dimension-user_login" content="arloor" /><meta name="octolytics-dimension-repository_id" content="157892826" /><meta name="octolytics-dimension-repository_nwo" content="arloor/HttpProxy" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="157892826" /><meta name="octolytics-dimension-repository_network_root_nwo" content="arloor/HttpProxy" />
@@ -178,17 +178,17 @@
   </head>
 
   <body class="logged-in env-production page-responsive page-blob" style="word-wrap: break-word;">
-    
+
 
     <div class="position-relative js-header-wrapper ">
       <a href="#start-of-content" class="p-3 color-bg-info-inverse color-text-white show-on-focus js-skip-to-content">Skip to content</a>
       <span data-view-component="true" class="progress-pjax-loader js-pjax-loader-bar Progress position-fixed width-full">
     <span style="background-color: #79b8ff;width: 0%;" data-view-component="true" class="Progress-item progress-pjax-loader-bar"></span>
-</span>      
-      
+</span>
 
 
-        
+
+
             <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap" role="banner" >
     <div class="Header-item mt-n1 mb-n1  d-none d-md-flex">
       <a
@@ -207,18 +207,18 @@
 
     <div class="Header-item d-md-none">
       <button aria-label="Toggle navigation" aria-expanded="false" type="button" data-view-component="true" class="Header-link js-details-target btn-link">
-  
-  
+
+
         <svg aria-hidden="true" height="24" viewBox="0 0 16 16" version="1.1" width="24" data-view-component="true" class="octicon octicon-three-bars">
     <path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path>
 </svg>
 
-  
+
 
 </button>    </div>
 
     <div class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
-          
+
 
 
 
@@ -307,7 +307,7 @@
     </div>
 
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
-        
+
 
 
       <notification-indicator
@@ -316,7 +316,7 @@
         data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6ODgzNzczNzgiLCJ0IjoxNjMwNTgwNjgyfQ==--1d85f1bf95f1a3c4f704555a2740b8baec022a2720a53a246b3f353535da70ef">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
-          
+
           aria-label="You have no unread notifications"
           data-hotkey="g n"
           data-ga-click="Header, go to notifications, icon:read"
@@ -343,7 +343,7 @@
 </svg> <span class="dropdown-caret"></span>
   </summary>
   <details-menu class="dropdown-menu dropdown-menu-sw">
-    
+
 <a role="menuitem" class="dropdown-item" href="/new" data-ga-click="Header, create new repository">
   New repository
 </a>
@@ -368,7 +368,7 @@
     </div>
 
     <div class="Header-item position-relative mr-0 d-none d-md-flex">
-        
+
   <details class="details-overlay details-reset js-feature-preview-indicator-container" data-feature-preview-indicator-src="/users/awrcdhj/feature_preview/indicator_check">
 
   <summary
@@ -380,7 +380,7 @@
       <span class="feature-preview-indicator js-feature-preview-indicator" style="top: 1px;" hidden></span>
     <span class="dropdown-caret"></span>
   </summary>
-  <details-menu class="dropdown-menu dropdown-menu-sw" style="width: 180px" 
+  <details-menu class="dropdown-menu dropdown-menu-sw" style="width: 180px"
       src="/users/88377378/menu" preload>
       <include-fragment>
         <p class="text-center mt-3" data-hide-on-error>
@@ -402,7 +402,7 @@
     </div>
 </header>
 
-            
+
     </div>
 
   <div id="start-of-content" class="show-on-focus"></div>
@@ -423,7 +423,7 @@
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
     </button>
-    
+
       <div>{{ message }}</div>
 
   </div>
@@ -432,7 +432,7 @@
 </div>
 
 
-    
+
 
   <include-fragment class="js-notification-shelf-include-fragment" data-base-src="https://github.com/notifications/beta/shelf"></include-fragment>
 
@@ -448,14 +448,14 @@
   >
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" data-pjax-container >
-      
-
-    
 
 
 
 
-  
+
+
+
+
 
 
   <div id="repository-container-header" class="hx_page-header-bg pt-3 hide-full-screen mb-5" data-pjax-replace>
@@ -472,7 +472,7 @@
   <strong itemprop="name" class="mr-2 flex-self-stretch">
     <a data-pjax="#js-repo-pjax-container" href="/arloor/HttpProxy">HttpProxy</a>
   </strong>
-  
+
 </h1>
 
 
@@ -492,7 +492,7 @@
           <span data-menu-button>
             <span
               hidden
-              
+
               data-target="notifications-list-subscription-form.unwatchButtonCopy"
             >
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-eye">
@@ -502,7 +502,7 @@
             </span>
             <span
               hidden
-              
+
               data-target="notifications-list-subscription-form.stopIgnoringButtonCopy"
             >
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell-slash">
@@ -511,8 +511,8 @@
               Stop ignoring
             </span>
             <span
-              
-              
+
+
               data-target="notifications-list-subscription-form.watchButtonCopy"
             >
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-eye">
@@ -527,7 +527,7 @@
           class="SelectMenu  "
           role="menu"
           data-target="notifications-list-subscription-form.menu"
-          
+
         >
           <div class="SelectMenu-modal notifications-component-menu-modal">
             <header class="SelectMenu-header">
@@ -552,7 +552,7 @@
                   role="menuitemradio"
                   aria-checked="true"
                   data-targets="notifications-list-subscription-form.subscriptionButtons"
-                  
+
                 >
                   <span class="f5">
                     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
@@ -625,7 +625,7 @@
                 data-action="click:notifications-list-subscription-form#openCustomDialog"
                 aria-haspopup="true"
                 aria-checked="false"
-                
+
               >
                 <span class="f5">
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
@@ -715,7 +715,7 @@
                         value="Issue"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Issues
                     </label>
@@ -729,7 +729,7 @@
                         value="PullRequest"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Pull requests
                     </label>
@@ -743,7 +743,7 @@
                         value="Release"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Releases
                     </label>
@@ -757,14 +757,14 @@
                         value="Discussion"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Discussions
                     </label>
 
                       <span
                         class="tooltipped tooltipped-nw mr-2 p-1 float-right"
-                        
+
                         aria-label="Discussions are not enabled for this repo">
                         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-info color-icon-secondary">
     <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"></path>
@@ -779,7 +779,7 @@
                         value="SecurityAlert"
                         data-targets="notifications-list-subscription-form.threadTypeCheckboxes"
                         data-action="change:notifications-list-subscription-form#threadTypeCheckboxesUpdated"
-                        
+
                       >
                       Security alerts
                     </label>
@@ -797,9 +797,9 @@
                 >Apply</button>
 
                 <button data-action="click:notifications-list-subscription-form#resetForm" data-close-dialog="" type="button" data-view-component="true" class="btn-sm btn">
-  
+
   Cancel
-  
+
 
 </button>
               </div>
@@ -869,98 +869,98 @@
 </div>
 
 
-        
+
 
   <nav data-pjax="#js-repo-pjax-container" aria-label="Repository" data-view-component="true" class="js-repo-nav js-sidenav-container-pjax UnderlineNav px-3 px-md-4 px-lg-5">
 
     <ul data-view-component="true" class="UnderlineNav-body list-style-none">
         <li data-view-component="true" class="d-flex">
   <a id="code-tab" href="/arloor/HttpProxy" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /arloor/HttpProxy" data-hotkey="g c" data-ga-click="Repository, Navigation click, Code tab" data-pjax="#repo-content-pjax-container" aria-current="page" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
           <span data-content="Code">Code</span>
             <span title="Not available" data-view-component="true" class="Counter"></span>
 
-    
+
 </a></li>
         <li data-view-component="true" class="d-flex">
   <a id="issues-tab" href="/arloor/HttpProxy/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /arloor/HttpProxy/issues" data-hotkey="g i" data-ga-click="Repository, Navigation click, Issues tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path><path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"></path>
 </svg>
           <span data-content="Issues">Issues</span>
             <span title="1" data-view-component="true" class="Counter">1</span>
 
-    
+
 </a></li>
         <li data-view-component="true" class="d-flex">
   <a id="pull-requests-tab" href="/arloor/HttpProxy/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /arloor/HttpProxy/pulls" data-hotkey="g p" data-ga-click="Repository, Navigation click, Pull requests tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"></path>
 </svg>
           <span data-content="Pull requests">Pull requests</span>
             <span title="1" data-view-component="true" class="Counter">1</span>
 
-    
+
 </a></li>
         <li data-view-component="true" class="d-flex">
   <a id="actions-tab" href="/arloor/HttpProxy/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /arloor/HttpProxy/actions" data-hotkey="g a" data-ga-click="Repository, Navigation click, Actions tab" data-pjax="#repo-content-pjax-container" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zM6.379 5.227A.25.25 0 006 5.442v5.117a.25.25 0 00.379.214l4.264-2.559a.25.25 0 000-.428L6.379 5.227z"></path>
 </svg>
           <span data-content="Actions">Actions</span>
             <span title="Not available" data-view-component="true" class="Counter"></span>
 
-    
+
 </a></li>
         <li data-view-component="true" class="d-flex">
   <a id="projects-tab" href="/arloor/HttpProxy/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /arloor/HttpProxy/projects" data-hotkey="g b" data-ga-click="Repository, Navigation click, Projects tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-project UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.75 0A1.75 1.75 0 000 1.75v12.5C0 15.216.784 16 1.75 16h12.5A1.75 1.75 0 0016 14.25V1.75A1.75 1.75 0 0014.25 0H1.75zM1.5 1.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v12.5a.25.25 0 01-.25.25H1.75a.25.25 0 01-.25-.25V1.75zM11.75 3a.75.75 0 00-.75.75v7.5a.75.75 0 001.5 0v-7.5a.75.75 0 00-.75-.75zm-8.25.75a.75.75 0 011.5 0v5.5a.75.75 0 01-1.5 0v-5.5zM8 3a.75.75 0 00-.75.75v3.5a.75.75 0 001.5 0v-3.5A.75.75 0 008 3z"></path>
 </svg>
           <span data-content="Projects">Projects</span>
             <span title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
 
-    
+
 </a></li>
         <li data-view-component="true" class="d-flex">
   <a id="wiki-tab" href="/arloor/HttpProxy/wiki" data-tab-item="i5wiki-tab" data-selected-links="repo_wiki /arloor/HttpProxy/wiki" data-hotkey="g w" data-ga-click="Repository, Navigation click, Wikis tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-book UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"></path>
 </svg>
           <span data-content="Wiki">Wiki</span>
             <span title="Not available" data-view-component="true" class="Counter"></span>
 
-    
+
 </a></li>
         <li data-view-component="true" class="d-flex">
   <a id="security-tab" href="/arloor/HttpProxy/security" data-tab-item="i6security-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /arloor/HttpProxy/security" data-hotkey="g s" data-ga-click="Repository, Navigation click, Security tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M7.467.133a1.75 1.75 0 011.066 0l5.25 1.68A1.75 1.75 0 0115 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.7 1.7 0 01-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 011.217-1.667l5.25-1.68zm.61 1.429a.25.25 0 00-.153 0l-5.25 1.68a.25.25 0 00-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.2.2 0 00.154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.25.25 0 00-.174-.237l-5.25-1.68zM9 10.5a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.75a.75.75 0 10-1.5 0v3a.75.75 0 001.5 0v-3z"></path>
 </svg>
           <span data-content="Security">Security</span>
             <include-fragment src="/arloor/HttpProxy/security/overall-count" accept="text/fragment+html"></include-fragment>
 
-    
+
 </a></li>
         <li data-view-component="true" class="d-flex">
   <a id="insights-tab" href="/arloor/HttpProxy/pulse" data-tab-item="i7insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /arloor/HttpProxy/pulse" data-ga-click="Repository, Navigation click, Insights tab" data-view-component="true" class="UnderlineNav-item hx_underlinenav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
+
                   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M1.5 1.75a.75.75 0 00-1.5 0v12.5c0 .414.336.75.75.75h14.5a.75.75 0 000-1.5H1.5V1.75zm14.28 2.53a.75.75 0 00-1.06-1.06L10 7.94 7.53 5.47a.75.75 0 00-1.06 0L3.22 8.72a.75.75 0 001.06 1.06L7 7.06l2.47 2.47a.75.75 0 001.06 0l5.25-5.25z"></path>
 </svg>
           <span data-content="Insights">Insights</span>
             <span title="Not available" data-view-component="true" class="Counter"></span>
 
-    
+
 </a></li>
 </ul>
       <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions  js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <details data-view-component="true" class="details-overlay details-reset position-relative">
@@ -972,7 +972,7 @@
           </div>
 </summary>
   <div data-view-component="true">          <details-menu role="menu" data-view-component="true" class="dropdown-menu dropdown-menu-sw">
-  
+
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
                   <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /arloor/HttpProxy" href="/arloor/HttpProxy">
@@ -1023,12 +1023,12 @@
 
 
 
-    
-      
-  
-  
+
+
+
+
 <div>
-  
+
 
 
     <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/arloor/HttpProxy/blob/f799f0482b200b336e986bbe8d477d188fb48c3f/src/main/java/com/arloor/forwardproxy/HttpProxyConnectHandler.java">Permalink</a>
@@ -1036,7 +1036,7 @@
     <!-- blob contrib key: blob_contributors:v22:38c12024ce0670fad9a86dc86f6ad406bb189b6206a19d5d225b09465d25aba8 -->
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
-      
+
 <div class="position-relative">
   <details class="details-reset details-overlay mr-0 mb-0 " id="branch-select-menu">
     <summary class="btn css-truncate"
@@ -1049,7 +1049,7 @@
       <span class="dropdown-caret"></span>
     </summary>
 
-      
+
 <div class="SelectMenu">
   <div class="SelectMenu-modal">
     <header class="SelectMenu-header">
@@ -1090,7 +1090,7 @@
               focus-list:ref-selector#focusFirstListMember
             "
             query-endpoint="/arloor/HttpProxy/refs"
-            
+
             cache-key="v0:1628869024.629015"
             current-committish="bWFzdGVy"
             default-branch="bWFzdGVy"
@@ -1200,12 +1200,12 @@
 
       <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
   <summary role="button" data-view-component="true" class="btn">
-  
+
             <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
     <path d="M8 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zM1.5 9a1.5 1.5 0 100-3 1.5 1.5 0 000 3zm13 0a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"></path>
 </svg>
 
-  
+
 
 </summary>
   <div data-view-component="true">          <ul class="dropdown-menu dropdown-menu-sw">
@@ -1216,26 +1216,26 @@
 </a>            </li>
             <li data-toggle-for="blob-more-options-details">
               <button data-toggle-for="jumpto-line-details-dialog" type="button" data-view-component="true" class="dropdown-item btn-link">
-  
-  
+
+
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Go to line</span>
                   <span class="text-small color-text-secondary" aria-hidden="true">L</span>
                 </span>
 
-  
+
 
 </button>            </li>
             <li class="dropdown-divider" role="none"></li>
             <li>
               <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="src/main/java/com/arloor/forwardproxy/HttpProxyConnectHandler.java" data-view-component="true" class="dropdown-item cursor-pointer">
-    
+
                 Copy path
 
 </clipboard-copy>            </li>
             <li>
               <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/arloor/HttpProxy/blob/f799f0482b200b336e986bbe8d477d188fb48c3f/src/main/java/com/arloor/forwardproxy/HttpProxyConnectHandler.java" data-view-component="true" class="dropdown-item cursor-pointer">
-    
+
                 <span class="d-flex flex-items-baseline">
                   <span class="flex-auto">Copy permalink</span>
                 </span>
@@ -1264,7 +1264,6 @@
 
 
 
-      
 
 
 
@@ -1272,13 +1271,14 @@
 
 
 
-  
+
+
     <div data-target="readme-toc.content" class="Box mt-3 position-relative
     ">
-      
+
   <div
     class="Box-header py-2 pr-2 d-flex flex-shrink-0 flex-md-row flex-items-center"
-    
+
   >
 
 
@@ -1293,15 +1293,15 @@
 
     <div class="BtnGroup">
       <a href="/arloor/HttpProxy/raw/master/src/main/java/com/arloor/forwardproxy/HttpProxyConnectHandler.java" id="raw-url" role="button" data-view-component="true" class="btn-sm btn BtnGroup-item">
-  
+
   Raw
-  
+
 
 </a>
         <a href="/arloor/HttpProxy/blame/master/src/main/java/com/arloor/forwardproxy/HttpProxyConnectHandler.java" data-hotkey="b" role="button" data-view-component="true" class="js-update-url-with-hash btn-sm btn BtnGroup-item">
-  
+
   Blame
-  
+
 
 </a>
     </div>
@@ -1359,10 +1359,10 @@
 </div>
 
 
-      
+
   <div itemprop="text" class="Box-body p-0 blob-wrapper data type-java  gist-border-0">
 
-      
+
 <table class="highlight tab-size js-file-line-container" data-tab-size="8" data-paste-markdown-skip>
       <tr>
         <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
@@ -2332,7 +2332,7 @@
     </div>
 
 
-  
+
 
   <details class="details-reset details-overlay details-overlay-dark" id="jumpto-line-details-dialog">
     <summary data-hotkey="l" aria-label="Jump to line"></summary>
@@ -2340,9 +2340,9 @@
       <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-jump-to-line-form Box-body d-flex" action="" accept-charset="UTF-8" method="get">
         <input class="form-control flex-auto mr-3 linejump-input js-jump-to-line-field" type="text" placeholder="Jump to line&hellip;" aria-label="Jump to line" autofocus>
         <button data-close-dialog="" type="submit" data-view-component="true" class="btn">
-  
+
   Go
-  
+
 
 </button>
 </form>    </details-dialog>
@@ -2361,7 +2361,7 @@
 
   </div>
 
-          
+
 <div class="footer container-xl width-full p-responsive" role="contentinfo">
   <div class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between pt-6 pb-2 mt-6 f6 color-text-secondary border-top color-border-secondary ">
     <ul class="list-style-none d-flex flex-wrap col-12 col-lg-5 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
@@ -2391,7 +2391,7 @@
     <span class="f6 color-text-tertiary"></span>
   </div>
 
-  
+
 </div>
 
 
