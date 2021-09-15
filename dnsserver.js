@@ -2,14 +2,14 @@
 # LOCAL_HOST_TOTAL_LINES=130
 
 # VAR=10000
-
 # echo | awk -v VARIABLE=$VAR '{ print VARIABLE } END{ print "end" }' file
-
 # awk '( BEGIN VARIABLE=server:localhost)
 
 # localhost-matching-domainname=true
 
  -=localhost
+
+# Modified Hosts Start
 
  -119.29.29.29
  -74.82.42.42
