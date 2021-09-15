@@ -1,5 +1,5 @@
-# TITLE=Concurrent parsing of DNS server
-# DNS_SERVER_TOTAL_LINES=130
+# TITLE=Concurrent parsing of awrcdhj
+# LOCAL_HOST_TOTAL_LINES=130
 
 # VAR=10000
 
