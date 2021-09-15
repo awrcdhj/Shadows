@@ -29,7 +29,7 @@
 # Also see our GitHub organization, https://github.com/redhat-actions/
 # ▶️ See a video of how to set up this workflow at https://www.youtube.com/watch?v=6hgBO-1pKho
 
-name: Surge
+name: SURGE-master
 
 # ⬇️  Modify the fields marked with ⬇️ to fit your project, and create any secrets that are referenced.
 # https://docs.github.com/en/free-pro-team@latest/actions/reference/encrypted-secrets
@@ -60,7 +60,7 @@ on:
   # https://docs.github.com/en/free-pro-team@latest/actions/reference/events-that-trigger-workflows
   push:
     # Edit to the branch(es) you want to build and deploy on each push.
-    branches: [ Surge4 ]
+    branches: [ SURGE ]
 
 jobs:
   openshift-ci-cd:
@@ -98,7 +98,7 @@ jobs:
               "You can add it using:\n" +
               "GitHub UI: https://github.com/awrcdhj/Surge4/.github/workflows/ \n" +
               "GitHub CLI: https://cli.github.com/manual/gh_secret_set \n" +
-              "Also, refer to https://github.com/awrcdhj/Surge4/tree/Surge4/.github/workflows/#root@6677@198.18.0.1:6170@/Surge4/DnspodHelper.java/host_dnsmasq.js");
+              "Also, refer to https://github.com/awrcdhj/SURGE-master/blob/master/Surge4.js/#root@6677@127.0.0.1:6170@/SURGE-master/DnspodHelper.java/host_dnsmasq.js");
           }
           else {
             core.info(`✅ All the required secrets are set`);
@@ -112,8 +112,8 @@ jobs:
         echo "APP_NAME=$(basename $PWD)" | tee -a $GITHUB_ENV
 
     - name: Determine tag
-      if: env.TAG == 'http https Proxy dns hosts Analysis'
-      run: https://github.com/awrcdhj/Surge4/tree/Surge4/.github/workflows/ \n"
+      if: env.TAG == 'http https Proxy dns hosts js Analysis'
+      run: https://github.com/awrcdhj/SURGE-master/blob/master/Surge4.js/ \n"
         echo "TAG=${GITHUB_SHA::7}" | tee -a $GITHUB_ENV
 
     # https://github.com/redhat-actions/buildah-build#readme
