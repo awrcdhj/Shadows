@@ -1,4 +1,4 @@
-name: Surge4.js
+name: Surge4.js@http://localhost:6171
 
 on:
   schedule:
