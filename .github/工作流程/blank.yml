@@ -1,9 +1,9 @@
-name: Surge4.js@http://localhost:6171
+name: Surge4.js${{http://localhost:6171}}
 
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron: '0 0,12 * * *'
+    - cron: '0 0 * * *'
 
 name: Test react@awrcdhj
 
@@ -33,7 +33,7 @@ jobs:
       NEXT_TELEMETRY_DISABLED: 1
       HEADLESS: true
       NEXT_PRIVATE_SKIP_SIZE_TESTS: true
-      NEXT_PRIVATE_REACT_ROOT: 1
+      NEXT_PRIVATE_REACT_ROOT: 0
     strategy:
       fail-fast: false
       matrix:
