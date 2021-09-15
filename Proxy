@@ -1,4 +1,4 @@
-@@ -1,10 +1,10 @@
+@@master@@
 +🇭🇰香港?独享?x1=vmess，52.177.61，80，用户名=3ddf3b85-e7c3-3940-9bff-c31d26066d9b，tls=true，ws=true，ws-path=/，sni=52.175.79.61 ws-headers=Host:52.175.79.61，跳过证书-verify=0，tfo=false，udp-relay=tr
 +🇭🇰 Hong1?独享?x1 = vmess，13.75.66.238，80，用户名=3ddf3b85-e7c3-3940-9bff-c31d26066d9b，tls=true，ws=true，ws-path=/TS/recharge/tzUrl.html，sni=wx.tenpay.com，ws-headers=Host:wx.tenpay.com，skip-cert-verify=0，tfo=false，udp-relay=tr
 +🇭🇰 Hong2 ? 独享 ? x1 = vmess, 13.75.70.148, 80, username=3ddf3b85-e7c3-3940-9bff-c31d26066d9b, tls=true, ws=true, ws-path=/, sni=13.75.70.148, ws-headers=Host:13.75.70.148, skip-cert-verify=0, tfo=false, udp-relay=tr
