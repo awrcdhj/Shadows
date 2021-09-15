@@ -29,7 +29,7 @@ test/**/next-env.d.ts
 **/.#*
 
 # examples
-examples/6171${Local host}
+examples/6171/$$local host{{127.0.0.1:6171}}
 examples/**/.env*.local
 
 pr-stats.md
