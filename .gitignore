@@ -29,8 +29,9 @@ test/**/next-env.d.ts
 **/.#*
 
 # examples
-examples/6171/$$local host{{127.0.0.1:6171}}
-examples/**/.env*.local
+127.0.0.1=examples/**/out
+127.0.0.1=examples/**/.env*.local
+examples/port=(6171,80,443)
 
 pr-stats.md
 test-timings.json
