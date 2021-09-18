@@ -4,14 +4,14 @@ node_js: node
 
 branches:
   except:
-    - Surge4
+    - Surge
 
 script:
   - ./build.sh
 
 after_success:
-  - cd master
+  - cd Surge
   - git remote add coding https://$CODING_USER:$CODING_KEY@e.coding.net/scaffrey/hosts.git
   - git remote add qvqnetwork https://$QVQNETWORK_TOKEN@git.qvq.network/googlehosts/hosts
-  - '[ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "$TRAVIS_BRANCH" = "hosts-source" ] && git push coding HEAD:Surge4 -f'
-  - '[ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "$TRAVIS_BRANCH" = "hosts-source" ] && git push qvqnetwork HEAD:Surge4 -f'
+  - '[ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "$TRAVIS_BRANCH" = "hosts-source" ] && git push coding HEAD:Surge -f'
+  - '[ "$TRAVIS_PULL_REQUEST" = "false" ] && [ "$TRAVIS_BRANCH" = "hosts-source" ] && git push qvqnetwork HEAD:Surge -f'
