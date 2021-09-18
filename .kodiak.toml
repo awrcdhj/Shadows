@@ -3,7 +3,7 @@ version = 1
 
 [merge]
 automerge_label = "ready to land"
-require_automerge_label = true
+require_automerge_label = false
 method = "squash"
 delete_branch_on_merge = true
 optimistic_updates = true
