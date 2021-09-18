@@ -50,7 +50,7 @@
         "ecmaFeatures": {
           "jsx": true
         },
-        "warnOnUnsupportedTypeScriptVersion": false
+        "warnOnUnsupportedTypeScriptVersion": true
       },
       "plugins": ["@typescript-eslint"],
       "rules": {
@@ -67,10 +67,10 @@
         "@typescript-eslint/no-use-before-define": [
           "warn",
           {
-            "functions": false,
-            "classes": false,
-            "variables": false,
-            "typedefs": false
+            "functions": true,
+            "classes": true,
+            "variables": true,
+            "typedefs": true
           }
         ],
         "no-unused-vars": "off",
@@ -78,7 +78,7 @@
           "warn",
           {
             "args": "none",
-            "ignoreRestSiblings": true
+            "ignoreRestSiblings": false
           }
         ],
         "no-unused-expressions": "off",
@@ -109,9 +109,9 @@
           "error",
           {
             // React components:
-            "allowArrowFunction": false,
-            "allowAnonymousClass": false,
-            "allowAnonymousFunction": false,
+            "allowArrowFunction": true,
+            "allowAnonymousClass": true,
+            "allowAnonymousFunction": true,
 
             // Non-React stuff:
             "allowArray": true,
@@ -128,7 +128,7 @@
         "no-shadow": ["warn", { "builtinGlobals": false }],
         "import/no-extraneous-dependencies": [
           "error",
-          { "devDependencies": false }
+          { "devDependencies": true }
         ]
       }
     },
@@ -187,7 +187,7 @@
           ["&&", "||"],
           ["in", "instanceof"]
         ],
-        "allowSamePrecedence": false
+        "allowSamePrecedence": true
       }
     ],
     "no-multi-str": "warn",
@@ -234,9 +234,9 @@
     "no-use-before-define": [
       "warn",
       {
-        "functions": false,
-        "classes": false,
-        "variables": false
+        "functions": true,
+        "classes": true,
+        "variables": true
       }
     ],
     "no-useless-computed-key": "warn",
