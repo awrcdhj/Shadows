@@ -107,4 +107,5 @@
  doh-server=https://doh.in.ahadns.net/dns-query //dns-server=[2400:8904:e001:43::43]
  doh-server=https://doh.la.ahadns.net/dns-query //45.67.219.208,dns-server=[2a04:bdc7:100:70::70]
  doh-server=https://doh.nl.ahadns.net/dns-query //dns-server=5.2.75.75,dns-server=[2a04:52c0:101:75::75]
+ doh-server=https://dns.alidns.com/dns-query //dns-server=223.5.5.5,dns-server=223.6.6.6
  doh-server=https://dnsnl-noads.alekberg.net/dns-query //dns-server=51.15.124.208/4343,doh-server=2001:bc8:1830:2018:1/4343
