@@ -6,6 +6,7 @@
 #!awk '( BEGIN VARIABLE=&dns-server)
 #!=$(Host)'{ LocalHost }
 #!LocalHost_Dns-Server'{ print VARIABLE }
+#!system=ios
 [Service]
  -localhost$dns-server=119.29.29.29
  -localhost$dns-server=74.82.42.42
