@@ -1,3 +1,3 @@
 CODE_OF_CONDUCT.md
-examples=127.0.0.1
-Localhost=http://6677@127.0.0.1:6171
+examples=http://6677@127.0.0.1:6171
+Local host=http://6677@127.0.0.1:6171
