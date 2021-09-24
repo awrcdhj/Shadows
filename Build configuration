@@ -1,25 +1,23 @@
 {
-  "language": "node_js",
-  "os": [
-    "linux"
-  ],
-  "dist": "xenial",
-  "node_js": [
-    "node"
+  "sudo": false,
+  "script": [
+    "git clone git@git.coding.net:bukas/surge.git",
+    "cp surge.conf surge",
+    "cd surge && git add surge.conf && git commit -m \"updated by travis at $(date -u +'%Y-%m-%d %H:%M:%S')\" && git push"
   ],
   "branches": {
-    "except": [
+    "only": [
       "master"
     ]
   },
-  "script": [
-    "./build.sh"
-  ],
-  "after_success": [
-    "cd Surge",
-    "git remote add coding https://$CODING_USER:$CODING_KEY@e.coding.net/scaffrey/hosts.git",
-    "git remote add qvqnetwork https://$QVQNETWORK_TOKEN@git.qvq.network/googlehosts/hosts",
-    "[ \"$TRAVIS_PULL_REQUEST\" = \"false\" ] && [ \"$TRAVIS_BRANCH\" = \"hosts-source\" ] && git push coding HEAD:Surge -f",
-    "[ \"$TRAVIS_PULL_REQUEST\" = \"false\" ] && [ \"$TRAVIS_BRANCH\" = \"hosts-source\" ] && git push qvqnetwork HEAD:Surge -f"
+  "language": "node_js",
+  "before_install": [
+    "openssl aes-256-cbc -K $encrypted_c70b7fb2ead1_key -iv $encrypted_c70b7fb2ead1_iv -in .travis/id_rsa.enc -out ~/.ssh/id_rsa -d",
+    "chmod 600 ~/.ssh/id_rsa",
+    "eval $(ssh-agent)",
+    "ssh-add ~/.ssh/id_rsa",
+    "cp .travis/ssh_config ~/.ssh/config",
+    "git config --global user.name 'huanz'",
+    "git config --global user.email 'yhz1219@gmail.com'"
   ]
 }
