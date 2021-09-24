@@ -8,4 +8,5 @@
 +国内长沙?千兆节点?x4（超低延迟游戏）=vmess，cw3.cwzz.tk，80，用户名=3ddf3b85-e7c3-3940-9bff-c31d26066d9b，tls=true，ws=true，ws-path=/TS/recharge/tzUrl.html，sni=wx.tenpay.com，ws-headers=Host:wx.tenpay.com， skip-cert-verify=0，tfo=false，udp-relay=true
 +🇸🇸洛杉矶?高速?x1 = vmess, cw.cwzz.tk, 58560, username=3ddf3b85-e7c3-3940-9bff-c31d26066d9b, tls=true, ws=true, ws-path=/, sni=wx.tenpay.com, ws-headers=Host:wx.tenpay.com, skip-cert-verify=0, tfo=false, udp-relay=tr
 +纽约?高速?x1 = vmess, cw.cwzz.tk, 48999, username=3ddf3b85-e7c3-3940-9bff-c31d26066d9b, tls=false, ws=true, ws-path=/, sni=wx.tenpay.com, ws-headers=Host:wx.tenpay.com, skip-cert-verify=0, tfo=false, udp-relay=true
-+自用=vmess，127.0.0.1，80，用户名=4acce8b9-0dbe-4dac-97f8-c2e4f6144dfc，tls=true，ws=true，ws-path20210910060143，sni=wx.tenpay.com，ws-headers=Host:wx.tenpay.com， skip-cert-verify=0，tfo=false，udp-relay=true
++Proxyhttp = http, 127.0.0.1, 80, username=443, password=allow-other-interface=true
++自用=https，127.0.0.1，80，username=443, password=allow-other-interface=true，tfo=false，udp-relay=true
