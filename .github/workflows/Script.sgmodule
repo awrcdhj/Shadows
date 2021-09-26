@@ -1,0 +1,48 @@
+#!name=iPhone 12 Pao Max
+#!desc=Execute DNS DomainNameSystem
+#!system=ios
+[Section]
+VAR<"a">=HOST
+VAR<"w">=DNS_SERVER
+VAR<"k">=DOH_SERVER
+VAR<"v">=VARIABLE
+AVR<"END">=end
+#######################################################______________________________
+TITLE=CONCURRNt_PARSING_OF_(DNS-SERVER)
+DNS_SERVER_TOTAL_LINES=80
+DOH_SERVER_TOTAL_LINES=25
+VAR=10000
+echo | awk -v VARIABLE=VAR'{ print VARIABLE } END{ print "end" }'file}
+
+{{from VAR_HTTPS://$ ￥DNSIPV4_DNSIPV6&&DNS-SERVER}
+
+{{Host'{ DNS_SERVER "DOH_SERVER" }do}
+
+{{LOCAL_HOST("DNS_SERVER")'{ print "VAR" }'file}
+
+kali@kali:~$ host
+##############################################________________________________________
+# Modified Hosts Start
+
+# autodraw Start
+HOST\*IPV4://$&&SITE_DNS{'(dns-server=119.29.29.29","74.82.42.42","1.2.4.8","210.2.4.8","223.5.5.5","223.6.6.6","119.28.28.28","1.1.1.1","1.0.0.1","180.76.76.76","182.254.116.116","101.101.101.101","101.102.103.104","80.80.80.80","80.80.81.81","4.2.2.1","4.2.2.2","112.121.178.187","203.80.96.10","203.80.96.9","123.206.61.167","119.29.105.234","223.113.97.99","123.125.81.6","140.207.198.6","115.159.157.26","115.159.158.38","103.16.131.77","13.49.175.86","104.21.57.110","172.67.145.168","8.20.247.2","37.120.152.235","37.120.236.11","37.120.142.115","37.120.232.43","45.153.187.96","72.11.134.90","77.88.8.78","217.169.20.23","51.158.166.97","149.154.153.153","94.140.14.14","176.103.130.130","94.140.14.15","176.103.130.132","94.140.14.140","45.67.219.208","5.2.75.75","95.181.155.140","51.15.124.208","45.79.120.233","185.253.154.66","193.70.85.11","13.49.175.86","104.155.237.225","185.194.94.71","208.67.220.220","185.228.168.10","1.1.1.3","1.0.0.3","95.217.213.94","212.78.94.4","23.226.134.242","182.254.116.116","210.2.1.1","210.2.2.2","218.30.118.6","208.67.222.222","208.67.222.220)   }   }
+  }
+}
+# autodraw End
+
+# autodraw Start
+{\*IPV6://**&&SITE_DNS{'(dns-server=2001:bc8:1824:738::1","2a05:d016:af8:4000:7710:6fc:bde3:fe0e","2400:8904:e001:43::43","2a04:bdc7:100:70::70","2a00:5980:94::71","2001:41d0:302:2200::180)   }   }
+  }
+}
+# autodraw End
+
+# autodraw Start
+~{from~DNS-OVER-HTTPS://**&&DOH_SERVER -join}}
+{\*DNS-OVER-HTTPS&&doh-server='(https://ordns.he.net/dns-query","https://doh.applied-privacy.net/query","https://dns.wevpn.com/dns-query","https://dns-weblock.wevpn.com/dns-query","https://dns.gooele/dns-query","https://dns64.dns.google/dns-query","https://dns10.quad9.net/dns-query","https://private.canadianshield.cira.ca/dns-query","https://doh.doh.my.id/dns-query","https://doh-de.blahdns.com/dns-query","https://doh.pub/dns-query","https://rubyfish.cn/dns-query","https://dns.rubyfish.cn/dns-query","https://doh.xeton.dev/dns-query","https://dns.brahma.world/dns-query","https://ordns.he.net/dns-query","dnsse.alekberg.net/dns-query","https://dns.aa.net.uk/dns-query","https://adfree.usableprivacy.net/dns-query","https://dns.adguard.com/dns-query","https://dns-family.adguard.com/dns-query","https://doh.in.ahadns.net/dns-query","https://doh.la.ahadns.net/dns-query","https://doh.nl.ahadns.net/dns-query","https://dns.alidns.com/dns-query","https://dnsnl-noads.alekberg.net/dns-query)   }   }
+  }
+}
+# autodraw End
+
+
+# Modified Hosts End
+@end
