@@ -1,3 +1,4 @@
+@@ -1,12 +1,14 @@
 Proxyhttp=http,127.0.0.1,80,username=443,password=Allow-other-interfaces-access=true
 Proxyhttps=http, 127.0.0.1, 443,username=443,password=Allow-other-interfaces-access=true, tls=true //http,127.0.0.1,80,username=443, password=Allow-other-interfaces-access=true
 SOCKS5=socks5,127.0.0.1,53516,username=0d6eefcf-637e-405c-853c-9ad3210baab2,password=aes-256-gcm
