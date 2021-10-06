@@ -1,4 +1,5 @@
-proxy-server: {
+proxy-server: 
+{
 server: <'hk 1 = vmess, 168.63.137.241, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/, sni='168.63.137.241', ws-Host='168.63.137.241', skip-cert-verify=0, tfo=true, udp-relay=true'>
 
 server: <'hk 2 = vmess, 52.175.70.194, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/TS/recharge/tzUrl.html, sni='gd.189.cn', ws-Host='gd.189.cn', skip-cert-verify=0, tfo=true, udp-relay=true'>
