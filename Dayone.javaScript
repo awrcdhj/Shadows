@@ -1,3 +1,4 @@
+name: iPhone 12 Pro Max {
 var obj = JSON.parse($response.body);
 
 obj= {
