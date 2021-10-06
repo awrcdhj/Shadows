@@ -1,0 +1,23 @@
+proxy-server: {
+server: <'hk 1 = vmess, 168.63.137.241, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/, sni='168.63.137.241', ws-Host='168.63.137.241', skip-cert-verify=0, tfo=true, udp-relay=true'>
+
+server: <'hk 2 = vmess, 52.175.70.194, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/TS/recharge/tzUrl.html, sni='gd.189.cn', ws-Host='gd.189.cn', skip-cert-verify=0, tfo=true, udp-relay=true'>
+
+server: <'hk 3 = vmess, 207.46.136.212, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=JJkuv3, sni='a.189.cn', ws-Host='a.189.cn', skip-cert-verify=0, tfo=true, udp-relay=true'>
+
+server: <'hk 4 = vmess, 52.229.167.3, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/, sni='52.229.167.3', ws-Host='52.229.167.3', skip-cert-verify=0, tfo=true, udp-relay=true'>
+
+server: <'hk 5 = vmess, 168.63.204.170, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/TS/recharge/tzUrl.html, sni='gd.189.cn', ws-Host='gd.189.cn', skip-cert-verify=0, tfo=true, udp-relay=true'>
+
+server: <'hk 6 = vmess, 207.46.144.237, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=JJkuv3, sni='207.46.144.237', ws-Host='207.46.144.237', skip-cert-verify=0, tfo=true, udp-relay=true'>
+
+server: <'hk 7 = vmess, 13.75.72.230, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/, sni='pull.free.video.10010.com', ws-Host='pull.free.video.10010.com', skip-cert-verify=0, tfo=true, udp-relay=true'>
+
+server: <'hk 8 = vmess, 23.99.112.143, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/, sni='pull.free.video.10010.com', ws-Host='pull.free.video.10010.com', skip-cert-verify=0, tfo=true, udp-relay=true'>
+
+server: <'hk 9 = vmess, 52.184.13.69, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/, sni='pull.free.video.10010.com', ws-Host='pull.free.video.10010.com', skip-cert-verify=0, tfo=true, udp-relay=true'>
+
+server: <'hk 10 = vmess, 52.175.121.142, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/, sni='52.175.121.142', ws-Host='52.175.121.142', skip-cert-verify=0, tfo=true, udp-relay=true'>
+
+server: <'hk 11 = vmess, 52.175.120.236, 80, username='3ddf3b85-e7c3-3940-9bff-c31d26066d9b', tls=false, ws=true, ws-path=/, sni='pull.free.video.10010.com', ws-Host='pull.free.video.10010.com', skip-cert-verify=0, tfo=true, udp-relay=true'>
+}
