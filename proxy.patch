@@ -1,7 +1,7 @@
    {
              proxy: `("hk 1","hk 2","hk 3","hk 4","hk 5","hk 6","hk 7","hk 8","hk 9","hk 10","hk 11")
              
-             agent-prioritize: `("HK")
+             agent-prioritize: `("hk")
              
              method: `(proxy/proxy-server/server/hk)
              
