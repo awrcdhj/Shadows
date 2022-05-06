@@ -1,4 +1,5 @@
--[Scripted]</screen><gpsips/>
+-[Script]
+{
 '#!/bin/bash
 #获取http-request 插入links$ addr_headtamper infome
 way=> next page
