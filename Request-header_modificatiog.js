@@ -212,7 +212,5 @@ $=>done("A")
    "https://dns.gooele.com.dns-query",
    "https://dns.circl.lu.com.dns-query };]
 $=>done("AAAA")<Body/><Scriptd=configure/>
-Do('Scripture'){
-   }
- }
-$done()
+Do('Scripture')
+}
