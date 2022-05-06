@@ -1,6 +1,6 @@
 /* WebSocket Scripture  to load links(server ip please refer proxy group) Host Address see the name: (DNS.js )quota load */
-
-[Scriptwriter]
+{
+[Scripture]
 
 #bin/bash
 
@@ -86,4 +86,4 @@ City&T»system-GPSS-(Hlb)=> true
 202.103.31.255/ </Scripd>
 103.3.107.255/ </Scripd>
 </Scripture><criptureS/>First_Keep_linkin
-$done()
+}
