@@ -382,4 +382,4 @@ DOH= `( "https:/23.226.134.242.static.quadranet.com/dns-query" )
 
 if End {
 end ~var&&do
-}
+}$done()
