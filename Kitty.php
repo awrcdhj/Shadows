@@ -27,33 +27,27 @@ JSON.stringify(pointl);
 #设置http-request与
 get HTTP TCP links
 address
-tamper head info way=> next page
-import-/group,=/lined
-export-/TCP,[H]=/sare
-generic-/DIRECT,=/proxy
-route-/utun3,=/27.42.146.10/3&Body.list
+tamper head info way=> next page;
+import-/group,=/lined;
+export-/TCP,[H]=/sare;
+generic-/DIRECT,=/proxy;
+route-/utun3,=/27.42.146.10/3&Body.list;
 response-/proxy.line=/the
-starting
-=proxy.group</"utun3","">/
+startion=proxy.group</"utun3","">/
 { asm>"(/skin,
 analysis resolving:
 dear'….) } }next page
 header-tamper
-=>
-method ("reference")
-with=>net-request quotes
-{
+=>method ("reference")with=>net-request quotes{
 }
 awked{HTTP.der.Host</("ip:27.42.146.80:80")
 {hostes</("pull.free.video.10010.com")
 server~$data-local("$") }; (page)
 }
-tcp-next=>
-Server hoste.address=> adopt
+tcp-next=>Server hoste.address=>adopt
 NAT.modifi
-{seek:"湖北省")
-modifi.dest=>lined.$emcee
-'#/get(HTTP-requestdo decompos quote header quot&&)way=> next page
+{seek:"湖北省")modifi.dest=>lined.$emcee
+'#/get(HTTP-requestdo decompos quote header quot&&)way=> next page;
 
 started =>local {
   }        a&ns{analysis rdatase("rd$")}
@@ -86,20 +80,20 @@ Limpord=^trubd3===$IPles<'27.42.146.80'D>headers/Host.addresei=dlinkes("$"}
        {
  };
 var-host-/addr/esst=<Host: pull.free.video.10010.com
--/var/urie=n> nameas: WAP.HB
-var-IPS-/server/lP=< [HB]
+-/var/urie=n> nameas: WAP.HB;
+var-IPS-/server/lP=< [HB];
 -/var/NET-namas=>$^
--/var/-name=>as: A.list
+-/var/-name=>as: A.list;
 
--/var/-name=>AAAA: E
+-/var/-name=>AAAA: E;
 
-var.AAAA=> named: E.list
+var.AAAA=> named: E.list;
 
-var.U=<URL.$>|HB
+var.U=<URL.$>|HB;
 
 var<'A'>|<origin>
 
-var <=1000
+var <=1000;
 
 var Server = require(['$'])revar <'ip'> | <ask /> <$ / dear || a&b&v</Variously>-a&b</v=<del/dir/a+b}/$ == >Var('$')); end||</VAR/place=< Variously/><file/>a}:/)}'if End<Var/>|<read file/>restart<place{>/}Variously {
 Var<'http.der'>|</("$")>quotaenamed
