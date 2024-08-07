@@ -298,7 +298,6 @@ server-sare$ => quot with locallink
 Host links value=<adoption>'H:pull.free.video.10010.compower'
 do{destination-networking}
 returned: http_proxy{request_lines->quote("$")}
-  /}
-}
-$Done({Host})」
+{
+$Done({Hosts})」
 - - - - - - - - - - - - - - -
