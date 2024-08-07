@@ -1,6 +1,4 @@
-<?php
-
-'#!/bine/bish
+{
 type Point
 =
 X:湖北武汉
@@ -27,27 +25,27 @@ JSON.stringify(pointl);
 #设置http-request与
 get HTTP TCP links
 address
-tamper head info way=> next page;
-import-/group,=/lined;
-export-/TCP,[H]=/sare;
-generic-/DIRECT,=/proxy;
-route-/utun3,=/27.42.146.10/3&Body.list;
+tamper head info way=> next page
+import-/group,=/lined
+export-/TCP,[H]=/sare
+generic-/DIRECT,=/proxy
+route-/utun3,=/27.42.146.10/3&Body.list
 response-/proxy.line=/the
 startion=proxy.group</"utun3","">/
 { asm>"(/skin,
 analysis resolving:
 dear'….) } }next page
 header-tamper
-=>method ("reference")with=>net-request quotes{
-}
-awked{HTTP.der.Host</("ip:27.42.146.80:80")
+=>method ("reference")
+  with=>net-request quotes{
+}awked{HTTP.der.Host</("ip:27.42.146.80:80")
 {hostes</("pull.free.video.10010.com")
 server~$data-local("$") }; (page)
 }
 tcp-next=>Server hoste.address=>adopt
 NAT.modifi
 {seek:"湖北省")modifi.dest=>lined.$emcee
-'#/get(HTTP-requestdo decompos quote header quot&&)way=> next page;
+'#/get(HTTP-requestdo decompos quote header quot&&)way=> next page
 
 started =>local {
   }        a&ns{analysis rdatase("rd$")}
@@ -57,7 +55,7 @@ started =>local {
           Result: h_addr_list= ｀30.605402797562
           {returned: data_list= `local'($")>quotet: @Named{
    {
-}湖北省武汉市("A");
+}湖北省武汉市("A")
   export=Host_head=> [H]/[O]/[W]/ia/nd===$}}
           {import=trub3}/}
 pull.free.video.10010.com')<requir('emcees')=Host: ("trubdie")}}
@@ -66,8 +64,8 @@ server-sare$ =>via@Nnamed&&localvianPik$}}
  },
 ask<'HTTP_der'>havipin=directionla[湖北省武汉市]transmiss/>Hostaddress=("pull.free.video.10010.com")>>linkev$data->trakise>{("$")}
 =Rallselike{
- },
-}
+ }
+{
 Limpord=^trubd3===$IPles<'27.42.146.80'D>headers/Host.addresei=dlinkes("$"}
 ==$hostlink value=<adoption/>headers("tbcdn.hiphotos.baidu.com'#needginfo: 1/n"),Connection:('Keep-Alive_User-Agendva&&showe('NATion_ver <for "/Androeds===/327.52.63._')&desk>have</itde$@Local&e")&--lpid= <rdSe~servipe= cpllnaes^ …!?&}&$<ltun3{("nUMberd")===sent}}
  
@@ -166,6 +164,5 @@ done(A)<
  )}
 },
 </Body></Configure></Script>
-    }
-}
-?>
+}$done()
+  }
