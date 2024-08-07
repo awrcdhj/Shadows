@@ -1,4 +1,4 @@
-[Script]
+<?php
 
 '#!/bine/bish
 type Point
@@ -174,4 +174,4 @@ done(A)<
 </Body></Configure></Script>
     }
 }
-$done()
+?>
